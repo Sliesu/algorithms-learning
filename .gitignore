@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+*.log
+_smoke.js
+_render_test.js
